@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 903ba64c162dac8428cac07fcdb4c65e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3039985705886224562
+    second: __red_mushroom_jump_move_0
+  - first:
+      213: -7930667299777634885
+    second: __red_mushroom_jump_move_1
+  - first:
+      213: 631370104863105036
+    second: __red_mushroom_jump_move_2
+  - first:
+      213: -2120069505042701787
+    second: __red_mushroom_jump_move_3
+  - first:
+      213: -2104643909975126128
+    second: __red_mushroom_jump_move_4
+  - first:
+      213: -3280994292420335228
+    second: __red_mushroom_jump_move_5
+  - first:
+      213: 4767277891366503172
+    second: __red_mushroom_jump_move_6
+  - first:
+      213: 2737654432766260086
+    second: __red_mushroom_jump_move_7
+  - first:
+      213: -1736611492466143726
+    second: __red_mushroom_jump_move_8
+  - first:
+      213: 5401752411450317935
+    second: __red_mushroom_jump_move_9
+  - first:
+      213: -1811871740201188715
+    second: __red_mushroom_jump_move_10
+  - first:
+      213: -7380178856605499329
+    second: __red_mushroom_jump_move_11
+  - first:
+      213: -8559773387744847816
+    second: __red_mushroom_jump_move_12
+  - first:
+      213: -6798418576273939911
+    second: __red_mushroom_jump_move_13
+  - first:
+      213: 3121609288645865720
+    second: __red_mushroom_jump_move_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: __red_mushroom_jump_move_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1392
+        width: 532
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fe2666b1dcfc5d0800000000000000
+      internalID: -3039985705886224562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __red_mushroom_jump_move_1
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1394
+        width: 532
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd92fcfb1c90f190800000000000000
+      internalID: -7930667299777634885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __red_mushroom_jump_move_2
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1396
+        width: 530
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00aa26e3c313c800800000000000000
+      internalID: 631370104863105036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __red_mushroom_jump_move_3
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 1398
+        width: 532
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522aacc84000492e0800000000000000
+      internalID: -2120069505042701787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __red_mushroom_jump_move_4
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 1408
+        width: 530
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f4e37c38dcac2e0800000000000000
+      internalID: -2104643909975126128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __red_mushroom_jump_move_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 724
+        width: 530
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489a33213119772d0800000000000000
+      internalID: -3280994292420335228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __red_mushroom_jump_move_6
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 766
+        width: 531
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403497cebf5c82240800000000000000
+      internalID: 4767277891366503172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __red_mushroom_jump_move_7
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 808
+        width: 532
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6737ecea33a1ef520800000000000000
+      internalID: 2737654432766260086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __red_mushroom_jump_move_8
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 806
+        width: 534
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ec1be6c0156e7e0800000000000000
+      internalID: -1736611492466143726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __red_mushroom_jump_move_9
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 775
+        width: 533
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c1b11d231e6fa40800000000000000
+      internalID: 5401752411450317935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __red_mushroom_jump_move_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 55
+        width: 534
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5924db28040fad6e0800000000000000
+      internalID: -1811871740201188715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __red_mushroom_jump_move_11
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 22
+        width: 533
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f304e298e66549990800000000000000
+      internalID: -7380178856605499329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __red_mushroom_jump_move_12
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1
+        width: 523
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83850a99473953980800000000000000
+      internalID: -8559773387744847816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __red_mushroom_jump_move_13
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 1
+        width: 527
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93266ce035a27a1a0800000000000000
+      internalID: -6798418576273939911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __red_mushroom_jump_move_14
+      rect:
+        serializedVersion: 2
+        x: 3223
+        y: 1
+        width: 528
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0fb49eb1f225b20800000000000000
+      internalID: 3121609288645865720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
